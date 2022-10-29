@@ -1,1 +1,1 @@
-require("awesome-nvim-colorschemes.tokyonight")._load("moon")
+require("tokyonight")._load("moon")

@@ -1,1 +1,1 @@
-require("awesome-nvim-colorschemes.tokyonight.tokyonight")._load("day")
+require("tokyonight.tokyonight")._load("day")

@@ -1,1 +1,1 @@
-require("awesome-nvim-colorschemes.tokyonight")._load("storm")
+require("tokyonight")._load("storm")
