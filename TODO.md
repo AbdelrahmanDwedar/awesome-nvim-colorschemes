@@ -1,34 +1,34 @@
 ### colors
 
-- [] ayu
-- [] barstrata
-- [] catppuccin
-- [] darkplus
-- [] dracula
-- [] nightfox
-- [] nord
-- [] onedark
-- [] onenord
-- [] rose-pine
-- [] solarized
-- [] rose-pine.lua
+- [x] ayu
+- [x] barstrata
+- [x] catppuccin
+- [x] darkplus
+- [x] dracula
+- [x] nightfox
+- [x] nord
+- [x] onedark
+- [x] onenord
+- [x] rose-pine
+- [x] solarized
+- [x] rose-pine.lua
 - [x] tokyonight
 
 ---
 
 ### Docs
 
-- [] ayu
-- [] barstrata
-- [] catppuccin
-- [] darkplus
-- [] dracula
-- [] nightfox
-- [] nord
-- [] onedark
-- [] onenord
-- [] rose-pine
-- [] solarized
+- [x] ayu
+- [x] barstrata
+- [x] catppuccin
+- [x] darkplus
+- [x] dracula
+- [x] nightfox
+- [x] nord
+- [x] onedark
+- [x] onenord
+- [x] rose-pine
+- [x] solarized
 - [x] tokyonight
 
 ---
@@ -41,9 +41,9 @@
 - [x] darkplus
 - [x] dracula
 - [x] nightfox
-- [] nord
-- [] onedark
-- [] onenord
-- [] rose-pine
-- [] solarized
+- [x] nord
+- [x] onedark
+- [x] onenord
+- [x] rose-pine
+- [x] solarized
 - [x] tokyonight
