@@ -1,4 +1,3 @@
-lua << EOF
 -- Useful when debugging
 -- if vim.g.nightfox_debug then
   require("nightfox.util.reload")()
@@ -6,4 +5,3 @@ lua << EOF
 
 require("nightfox.config").set_fox("carbonfox")
 require("nightfox.main").load()
-EOF
