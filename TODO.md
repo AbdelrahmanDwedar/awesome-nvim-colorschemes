@@ -1,49 +1,19 @@
-### colors
+# TODO List
 
-- [x] ayu
-- [x] barstrata
-- [x] catppuccin
-- [x] darkplus
-- [x] dracula
-- [x] nightfox
-- [x] nord
-- [x] onedark
-- [x] onenord
-- [x] rose-pine
-- [x] solarized
-- [x] rose-pine.lua
-- [x] tokyonight
+## Colorschemes
+- [ ] Kanagawa
+  - [ ] color
+  - [ ] docs
+  - [ ] scripts
+  - [ ] extra
+- [ ] Everforest
+  - [ ] color
+  - [ ] docs
+  - [ ] scripts
+  - [ ] extra
+- [ ] base16 tommorow
+  - [ ] color
+  - [ ] docs
+  - [ ] scripts
+  - [ ] extra
 
----
-
-### Docs
-
-- [x] ayu
-- [x] barstrata
-- [x] catppuccin
-- [x] darkplus
-- [x] dracula
-- [x] nightfox
-- [x] nord
-- [x] onedark
-- [x] onenord
-- [x] rose-pine
-- [x] solarized
-- [x] tokyonight
-
----
-
-### lua
-
-- [x] ayu
-- [x] barstrata
-- [x] catppuccin
-- [x] darkplus
-- [x] dracula
-- [x] nightfox
-- [x] nord
-- [x] onedark
-- [x] onenord
-- [x] rose-pine
-- [x] solarized
-- [x] tokyonight
