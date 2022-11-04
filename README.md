@@ -2,6 +2,8 @@
 <p align=center>
 	<a href="https://github.com/neovim/neovim"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
 	<!-- <a href="#"><img src=""></a> -->
+	<strong>The best collection of NeoVim specific color schemes!</strong>
+	Inspered by <a href="https://github.com/rafi/awesome-vim-colorschemes">rafi/awesome-vim-colorschemes</a>
 </p>
 
 ---
@@ -110,5 +112,9 @@ EOF
 - [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 
 ---
+
+## Alternatives
+
+[ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua)
 
 <h6 align=center>Made by <a href="https://github.com/AbdelrahmanDwedar">AbdelrahmanDwedar</a> | GPL License</h6>
