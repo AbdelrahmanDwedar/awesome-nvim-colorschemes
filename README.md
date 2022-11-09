@@ -102,7 +102,7 @@ EOF
 - [dracula.nvim](https://github.com/Mofiqul/dracula.nvim)
 - [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)
 - [rose-pine](https://github.com/rose-pine/neovim)
-- [neovim-ayo](https://github.com/Shatur/neovim-ayu)
+- [neovim-ayu](https://github.com/Shatur/neovim-ayu)
 - [nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
 - [nord.nvim](https://github.com/shaunsingh/nord.nvim)
 - [catppuccin](https://github.com/catppuccin/nvim)
