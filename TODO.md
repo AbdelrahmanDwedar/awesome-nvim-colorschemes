@@ -16,8 +16,8 @@
   - [ ] docs
   - [ ] scripts
   - [ ] extra
-- [ ] Gruvbox
-  - [ ] color
+- [x] Gruvbox
+  - [x] color
   - [ ] docs
-  - [ ] scripts
-  - [ ] extra
+  - [x] scripts
+  - [x] extra
