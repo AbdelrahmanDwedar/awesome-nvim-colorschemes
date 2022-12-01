@@ -1,0 +1,57 @@
+name: Request New Colorscheme
+description: Requesting a new Colorscheme for neovim
+title: '[NEW SCHEME] <colorscheme name>'
+labels: [new-colorscheme]
+body:
+  - type: markdown
+    attributes:
+      value: "## Before you continue, please search our open/closed issues to see if a similar feature has been requested."
+
+  - type: checkboxes
+    attributes:
+      label: I have searched through the issues and didn't find my problem.
+      options:
+        - label: Confirm
+          required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: About the color scheme
+      description: Short description of why you think this colorscheme belongs in our project.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: colorschemeinformation
+    attributes:
+      label: Color scheme info
+      options:
+        - label: Supports terminal GUI colors
+          required: false
+        - label: Supports transparent background
+          required: false
+        - label: Supports LSP
+          required: false
+        - label: Supports [TreeSitter](https://github.com/nvim-treesitter/nvim-treesitter)
+          required: false
+        - label: Supports [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
+          required: false
+        - label: Supports [Lualine](https://github.com/hoob3rt/lualine.nvim)
+          required: false
+        - label: Supports [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+          required: false
+
+  - type: input
+    id: link
+    attributes:
+      label: The repository link
+      description: Add the link to the repository of the color scheme.
+    validations:
+      required: true
+
+  - type: textarea
+  id: extrainformation
+      attributes:
+        label: Additional information
+        description: Is there anything else we should know about this colorscheme?
