@@ -1,6 +1,7 @@
 <h1 align=center>Awesome Nvim Colorschemes</h1>
 <p align=center>
 	<a href="https://github.com/neovim/neovim"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
+	<br>
 	<!-- <a href="#"><img src=""></a> -->
 	<strong>The best collection of NeoVim specific color schemes!</strong>
 	Inspered by <a href="https://github.com/rafi/awesome-vim-colorschemes">rafi/awesome-vim-colorschemes</a>
@@ -97,11 +98,11 @@ EOF
 
 ## Colorschemes
 
-- [barstrata.nvim](https://github.com/w3barsi/barstrata.nvim)
+<!-- - [barstrata.nvim](https://github.com/w3barsi/barstrata.nvim) -->
 - [darkplus.nvim](https://github.com/LunarVim/darkplus.nvim)
 - [dracula.nvim](https://github.com/Mofiqul/dracula.nvim)
 - [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)
-- [rose-pine](https://github.com/rose-pine/neovim)
+<!-- - [rose-pine](https://github.com/rose-pine/neovim) -->
 - [neovim-ayu](https://github.com/Shatur/neovim-ayu)
 - [nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
 - [nord.nvim](https://github.com/shaunsingh/nord.nvim)
