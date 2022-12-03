@@ -99,17 +99,18 @@ EOF
 ## Colorschemes
 
 <!-- - [barstrata.nvim](https://github.com/w3barsi/barstrata.nvim) -->
+- [catppuccin](https://github.com/catppuccin/nvim)
 - [darkplus.nvim](https://github.com/LunarVim/darkplus.nvim)
 - [dracula.nvim](https://github.com/Mofiqul/dracula.nvim)
 - [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)
-<!-- - [rose-pine](https://github.com/rose-pine/neovim) -->
+- [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
 - [neovim-ayu](https://github.com/Shatur/neovim-ayu)
 - [nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
 - [nord.nvim](https://github.com/shaunsingh/nord.nvim)
-- [catppuccin](https://github.com/catppuccin/nvim)
 - [nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua)
 - [onedark.nvim](https://github.com/navarasu/onedark.nvim)
 - [onenord.nvim](https://github.com/rmehri01/onenord.nvim)
+<!-- - [rose-pine](https://github.com/rose-pine/neovim) -->
 - [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 
 ---
