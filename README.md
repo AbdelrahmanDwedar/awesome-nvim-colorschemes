@@ -110,7 +110,7 @@ EOF
 - [nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua)
 - [onedark.nvim](https://github.com/navarasu/onedark.nvim)
 - [onenord.nvim](https://github.com/rmehri01/onenord.nvim)
-<!-- - [rose-pine](https://github.com/rose-pine/neovim) -->
+- [rose-pine](https://github.com/rose-pine/neovim)
 - [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 
 ---

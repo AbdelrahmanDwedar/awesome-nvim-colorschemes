@@ -1,0 +1,39 @@
+[submodule "deps/tokyonight.nvim"]
+	path = deps/tokyonight.nvim
+	url = https://github.com/folke/tokyonight.nvim
+[submodule "deps/neovim"]
+	path = deps/rose-pine
+	url = https://github.com/rose-pine/neovim
+[submodule "deps/nvim"]
+	path = deps/catppuccin
+	url = https://github.com/catppuccin/nvim.git
+[submodule "deps/darkplus.nvim"]
+	path = deps/darkplus.nvim
+	url = https://github.com/LunarVim/darkplus.nvim.git
+[submodule "deps/dracula.nvim"]
+	path = deps/dracula.nvim
+	url = https://github.com/Mofiqul/dracula.nvim.git
+[submodule "deps/github-nvim-theme"]
+	path = deps/github-nvim-theme
+	url = https://github.com/projekt0n/github-nvim-theme.git
+[submodule "deps/gruvbox.nvim"]
+	path = deps/gruvbox.nvim
+	url = https://github.com/ellisonleao/gruvbox.nvim.git
+[submodule "deps/neovim-ayu"]
+	path = deps/neovim-ayu
+	url = https://github.com/Shatur/neovim-ayu.git
+[submodule "deps/nightfox.nvim"]
+	path = deps/nightfox.nvim
+	url = https://github.com/EdenEast/nightfox.nvim.git
+[submodule "deps/nord.nvim"]
+	path = deps/nord.nvim
+	url = https://github.com/shaunsingh/nord.nvim.git
+[submodule "deps/nvim-solarized-lua"]
+	path = deps/nvim-solarized-lua
+	url = https://github.com/ishan9299/nvim-solarized-lua.git
+[submodule "deps/onedark.nvim"]
+	path = deps/onedark.nvim
+	url = https://github.com/navarasu/onedark.nvim.git
+[submodule "deps/onenord.nvim"]
+	path = deps/onenord.nvim
+	url = https://github.com/rmehri01/onenord.nvim.git
