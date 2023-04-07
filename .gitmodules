@@ -40,3 +40,6 @@
 [submodule "deps/catppuccin"]
 	path = deps/catppuccin
 	url = https://github.com/catppuccin/nvim.git
+[submodule "deps/rose-pine"]
+	path = deps/rose-pine
+	url = https://github.com/rose-pine/neovim.git
