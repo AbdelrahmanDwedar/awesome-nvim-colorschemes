@@ -37,3 +37,6 @@
 [submodule "deps/onenord.nvim"]
 	path = deps/onenord.nvim
 	url = https://github.com/rmehri01/onenord.nvim.git
+[submodule "deps/catppuccin"]
+	path = deps/catppuccin
+	url = https://github.com/catppuccin/nvim.git
