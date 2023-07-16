@@ -2,7 +2,6 @@
 <p align=center>
 	<a href="https://github.com/neovim/neovim"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
 	<br>
-	<!-- <a href="#"><img src=""></a> -->
 	<strong>The best collection of NeoVim specific color schemes!</strong>
 	Inspered by <a href="https://github.com/rafi/awesome-vim-colorschemes">rafi/awesome-vim-colorschemes</a>
 </p>
@@ -52,7 +51,7 @@ require('tokyonight').setup({
 
 **vim script**:
 
-```vim 
+```vim
 lua << EOF
 require('tokyonight').setup({
 	style = "night",
@@ -98,7 +97,6 @@ EOF
 
 ## Colorschemes
 
-<!-- - [barstrata.nvim](https://github.com/w3barsi/barstrata.nvim) -->
 - [catppuccin](https://github.com/catppuccin/nvim)
 - [darkplus.nvim](https://github.com/LunarVim/darkplus.nvim)
 - [dracula.nvim](https://github.com/Mofiqul/dracula.nvim)
