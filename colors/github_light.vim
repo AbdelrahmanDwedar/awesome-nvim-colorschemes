@@ -1,3 +1,1 @@
-lua << EOF
-require("github-theme").setup({theme_style = "light"})
-EOF
+../deps/github-nvim-theme/colors/github_light.vim

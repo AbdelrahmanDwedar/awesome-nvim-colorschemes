@@ -1,0 +1,1 @@
+../../../deps/nightfox.nvim/autoload/lightline/colorscheme/terafox.vim

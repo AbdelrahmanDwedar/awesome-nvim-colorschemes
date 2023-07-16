@@ -1,0 +1,1 @@
+../../../deps/darkplus.nvim/lua/lualine/themes/darkplus_old.lua

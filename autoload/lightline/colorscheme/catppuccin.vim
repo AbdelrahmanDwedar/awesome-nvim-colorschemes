@@ -1,0 +1,1 @@
+../../../deps/catppuccin/autoload/lightline/colorscheme/catppuccin.vim

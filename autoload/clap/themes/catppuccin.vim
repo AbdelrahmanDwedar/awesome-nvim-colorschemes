@@ -1,0 +1,1 @@
+../../../deps/catppuccin/autoload/clap/themes/catppuccin.vim

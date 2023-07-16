@@ -1,1 +1,1 @@
-require('ayu').colorscheme()
+../deps/neovim-ayu/colors/ayu.lua

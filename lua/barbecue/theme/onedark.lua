@@ -1,0 +1,1 @@
+../../../deps/onedark.nvim/lua/barbecue/theme/onedark.lua

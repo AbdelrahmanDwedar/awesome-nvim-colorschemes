@@ -1,2 +1,1 @@
-vim.o.background = 'light'
-require('ayu').colorscheme()
+../deps/neovim-ayu/colors/ayu-light.lua

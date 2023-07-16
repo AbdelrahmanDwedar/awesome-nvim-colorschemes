@@ -1,1 +1,1 @@
-require("tokyonight.tokyonight")._load("day")
+../deps/tokyonight.nvim/colors/tokyonight-day.lua

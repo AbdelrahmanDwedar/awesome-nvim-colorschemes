@@ -1,0 +1,1 @@
+../deps/nightfox.nvim/colors/carbonfox.vim

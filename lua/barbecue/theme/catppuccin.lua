@@ -1,0 +1,1 @@
+../../../deps/catppuccin/lua/barbecue/theme/catppuccin.lua

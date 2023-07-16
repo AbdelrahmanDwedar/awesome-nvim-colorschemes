@@ -1,1 +1,1 @@
-require("dracula").load()
+../deps/dracula.nvim/colors/dracula.lua

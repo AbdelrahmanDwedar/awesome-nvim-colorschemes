@@ -1,0 +1,1 @@
+../../deps/tokyonight.nvim/extras/st/tokyonight_day.h

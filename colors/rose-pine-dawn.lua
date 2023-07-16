@@ -1,0 +1,1 @@
+../deps/rose-pine/colors/rose-pine-dawn.lua

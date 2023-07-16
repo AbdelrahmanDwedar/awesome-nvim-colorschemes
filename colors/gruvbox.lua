@@ -1,1 +1,1 @@
-require("gruvbox").load()
+../deps/gruvbox.nvim/colors/gruvbox.lua

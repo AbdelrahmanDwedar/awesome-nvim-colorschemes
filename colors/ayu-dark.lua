@@ -1,3 +1,1 @@
-vim.o.background = 'dark'
-require('ayu.config').mirage = false
-require('ayu').colorscheme()
+../deps/neovim-ayu/colors/ayu-dark.lua

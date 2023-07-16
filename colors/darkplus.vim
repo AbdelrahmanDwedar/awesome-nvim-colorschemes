@@ -1,0 +1,1 @@
+../deps/darkplus.nvim/colors/darkplus.vim

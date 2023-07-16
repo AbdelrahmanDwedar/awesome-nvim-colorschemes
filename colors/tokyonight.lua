@@ -1,1 +1,1 @@
-require("tokyonight")._load()
+../deps/tokyonight.nvim/colors/tokyonight.lua

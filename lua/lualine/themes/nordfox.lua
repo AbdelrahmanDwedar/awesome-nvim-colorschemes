@@ -1,1 +1,1 @@
-return require("nightfox.util.lualine")("nordfox")
+../../../deps/nightfox.nvim/lua/lualine/themes/nordfox.lua

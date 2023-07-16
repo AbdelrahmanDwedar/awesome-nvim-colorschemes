@@ -1,0 +1,1 @@
+../deps/catppuccin/colors/catppuccin-frappe.vim
